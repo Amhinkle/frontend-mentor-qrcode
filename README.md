@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Live Site
 
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://qr-code-alexis.netlify.app/)
 
 ### Built with
 
